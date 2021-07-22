@@ -44,3 +44,5 @@ The Lavine have 6 big classes:
 
 Felipe Katão (https://github.com/FelipeKatao)
 The Analist and founder the formiga tecnologia, builder of core the formiga set.
+Marcia Alves or marlaves (https://github.com/marlaves)
+Business Analyst from the formiga tecnologia.
